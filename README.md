@@ -13,6 +13,3 @@ First step use ```composer-install``` in the the terminal at the root of your pr
 -----------------------
 
 To use Namespace you have to ```composer dump-autoload```
-
-
-To go further don't forget
