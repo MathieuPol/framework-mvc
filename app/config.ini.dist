@@ -1,0 +1,8 @@
+; TODO :
+;   - copy paste this file, and rename in config.ini
+;   - then you just have to complete to access at your own bdd
+
+DB_HOST=
+DB_NAME=
+DB_USERNAME=
+DB_PASSWORD=

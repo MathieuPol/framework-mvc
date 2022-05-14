@@ -1,0 +1,1 @@
+<h1>Congrats you can easyly use a mvc structure</h1>
